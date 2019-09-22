@@ -20,7 +20,7 @@
 
  I took courses in html and CSS on the *Stepic*.
 
-6. ### English:
+5. ### English:
 
  The level English is approximately A2. Studies at the university . I have been studying for 6 consecutive month.
 
