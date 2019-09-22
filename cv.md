@@ -1,26 +1,26 @@
 # Web developer
 ## Maksim Kadol
 
-1. ### Contact info:
+### Contact info:
 
     * [*link to me in vk*](https://vk.com/makskadol)
     * *my phone number* : +375255225320
     * *email*: makskadol@mail.ru
 
-2. ### Summary:
+### Summary:
 
  My **goal** is to learn front-end development. This is important for me because I like this  
  type of activity and I am ready to devote a lot of time to it.
 
-3. ### Skills:
+### Skills:
 
  Basic python knowledge.
 
-4. ###  Experience:
+###  Experience:
 
  I took courses in html and CSS on the *Stepic*.
 
-5. ### English:
+### English:
 
  The level English is approximately A2. Studies at the university . I have been studying for 6 consecutive month.
 
